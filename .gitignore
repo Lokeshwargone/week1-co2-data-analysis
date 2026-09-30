@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build and test artifacts
+build/
+dist/
+*.egg-info/
+.coverage
+.pytest_cache/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
